@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Navbar } from "@/components/navbar";
-
+import { Analytics } from "@vercel/analytics/next"
 export const metadata: Metadata = {
   title: "MyStore",
   description: "Buy cool products",
