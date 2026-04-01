@@ -57,7 +57,7 @@ export const Navbar = () => {
 
             {/* LOGO */}
             <Link href="/" className="font-semibold text-black/80 hover:text-blue-600 transition">
-              My Ecommerce
+              OneDayShop
             </Link>
 
             {/* DESKTOP LINKS */}
